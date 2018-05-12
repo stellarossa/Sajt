@@ -113,12 +113,12 @@ while($rows=$prikaz->fetch_assoc()){
             
             <div id="za_karakteristike">
             
-            <p class="karakteristike"><img src="img/ikonice/gorivo.png">'.$rows['Gorivo'].'</p>
-            <p class="karakteristike"><img src="img/ikonice/mjenjac.png">'.$rows['Transmisija'].'</p>
-            <p class="karakteristike"><img src="img/ikonice/highway.png">'.$rows['Kilometraza'].'</p>
-            <p class="karakteristike"><img src="img/ikonice/kilowat.png">'.$rows['KW'].'</p>
-            <p class="karakteristike"><img src="img/ikonice/kalendar.png">'.$rows['Godina'].'</p>
-            <p class="karakteristike"><img src="img/ikonice/cijena.png">'.$rows['Cijena'].' KM</p>
+            <p class="karakteristike"><img src="https://vjezbanjephp.000webhostapp.com/gorivo.png">'.$rows['Gorivo'].'</p>
+            <p class="karakteristike"><img src="https://vjezbanjephp.000webhostapp.com/mjenjac.png">'.$rows['Transmisija'].'</p>
+            <p class="karakteristike"><img src="https://vjezbanjephp.000webhostapp.com/highway.png">'.$rows['Kilometraza'].'</p>
+            <p class="karakteristike"><img src="https://vjezbanjephp.000webhostapp.com/kilowat.png">'.$rows['KW'].'</p>
+            <p class="karakteristike"><img src="https://vjezbanjephp.000webhostapp.com/kalendar.png">'.$rows['Godina'].'</p>
+            <p class="karakteristike"><img src="https://vjezbanjephp.000webhostapp.com/cijena.png">'.$rows['Cijena'].' KM</p>
             
             </div>
             </div>';
