@@ -3,8 +3,8 @@
 <head>
 	<title>Prodaja automobila 15</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="css/stilsajt.css">
-	<link rel="stylesheet" type="text/css" href="css/stil_kontakt.css">
+	<link rel="stylesheet" type="text/css" href="stilsajt.css">
+	<link rel="stylesheet" type="text/css" href="stil_kontakt.css">
 	 <!-- veci dio stranice je stilizovan u stilsajt.css i stil_kontakt.css ali ispod cemo jos da stilizujemo neke stvari-->
    <style>
     #naslov_kontakt{

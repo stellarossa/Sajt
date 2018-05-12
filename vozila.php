@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Prodaja automobila - vozila</title>
-    <link rel="stylesheet" type="text/css" href="css/stilsajt.css">
+    <link rel="stylesheet" type="text/css" href="stilsajt.css">
       <!-- veci dio stranice je stilizovan u stilsajt.css ali ispod cemo jos da stilizujemo neke stvari-->
       <style>
       #strjelica{
